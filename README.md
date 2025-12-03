@@ -59,8 +59,8 @@
 
 ### 📬 聯繫我 (Get In Touch)
 
-我正在尋找能發揮「專案規劃」與「前端專業」的**前端工程師**職位，歡迎與我交流！
+我積極尋求前端工程師職位，期望能將「專案規劃」與「前端開發」的雙重專業投入實戰。歡迎與我聯繫交流！
 
-* **Email:** [您的 Email 地址]
-* **LinkedIn:** [您的 LinkedIn 連結]
-* **個人網站/作品集:** [您的個人網站連結]
+* **Email:** jiarongli1116@gmail.com
+* **LinkedIn:**[ [LinkedIn 連結]](https://www.linkedin.com/in/%E4%BD%B3%E8%93%89-%E6%9D%8E-b8144a364/)
+
