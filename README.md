@@ -1,66 +1,81 @@
-# Hi, 我是 李佳蓉 (Anna Li) 👋
+# Hi there, I'm Anna Li (李佳蓉) 👋
 
-我是一位**具備 5 年以上跨領域經驗的前端工程師**，專注於結合**專案管理、UI/UX 設計思維**與**前端開發**，打造兼具效率、美感與良好使用者體驗的產品。
+<div align="center">
+  </div>
 
-## 🚀 專業定位與轉型 (My Story)
+### 👩‍💻 Front-End Engineer | 🎨 UI/UX Enthusiast | 📊 Former PM
 
-過去五年，我在人資與行銷領域累積了深厚的專案規劃、跨部門協作與溝通經驗。我曾主導：
-1.  **💻 官網重建專案：** 負責前台設計與使用者體驗優化。
-2.  **🛠 招募系統開發與優化：** 建立後台管理平台，協助流程數位轉型。
-3.  **⚙️ 流程自動化：** 解決人資作業重複輸入問題，大幅提升 HR 效率。
+我是一位具備 5 年以上跨領域經驗的前端工程師。專注於結合 **專案管理**、**UI/UX 設計思維** 與 **前端開發技術**，打造兼具效率、美感與良好使用者體驗的產品。
 
-**這些經歷讓我建立了對**使用者體驗 (UX)** 的高度敏感度，並激發了對**網頁設計與開發**的濃厚興趣。為此，我決定轉職並就讀**資展國際前端工程師轉職班**，透過系統化訓練，我成功掌握了現代前端開發所需的核心技能。我期望結合過去的實戰經驗，成為一名能夠理解業務需求、具備設計思維並能高效落實開發的前端人才。
+- 🔭 I’m currently working on **Vinyl & Flow E-commerce Platform**
+- 🌱 I’m currently learning **Next.js & TypeScript**
+- 💬 Ask me about **React, UI/UX Design, and Project Management**
+- 📫 How to reach me: **jiarongli1116@gmail.com**
 
 ---
 
-## 🛠 技能專長 (Technical Toolkit)
+### 🛠 Technical Toolkit
 
-我透過系統化學習與實作，掌握以下技術：
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-| 類別 | 技能標籤 (Skills) |
+---
+
+### 🌟 Featured Projects
+
+#### 🎵 Vinyl & Flow 黑膠音樂社群電商平台 (Team Lead & Full-Stack Dev)
+
+> **這是一個結合音樂試聽與社群互動的電商平台。**
+> *使用者可以試聽 Spotify 音樂、瀏覽商品、加入購物車並結帳，同時享有會員專屬功能。*
+
+
+<br/>
+
+| 🛠 Tech Stack | 💡 Key Features |
 | :--- | :--- |
-| **前端框架** | `React.js` `Next.js` |
-| **核心技術** | `JavaScript (ES6+)` `HTML5` `CSS3` `RWD 響應式設計` |
-| **後端與 API** | `Node.js (Express.js)` `PHP` `RESTful API 串接` |
-| **設計與規劃** | `Figma` `Wireframe` `Prototype` `UI/UX 規劃` `Photoshop` `Illustrator` |
-| **資料庫** | `MySQL` `MariaDB` |
-| **開發工具** | `Git / GitHub 版本控制` `Visual Studio Code` `Cursor (AI 輔助)` |
+| **React.js, Node.js (Express), MySQL** | • **Spotify API 整合**：實作音樂試聽與搜尋<br/>• **JWT 驗證**：完整的會員註冊與登入系統<br/>• **RWD 設計**：Figma 設計稿精準還原<br/>• **購物車邏輯**：複雜狀態管理 (Context API) |
+
+
+<br/>
+
+#### 🏢 優仕人力銀行網站改版 (Web Product Owner)
+* **角色：** 專案負責人 / 產品規劃
+* **貢獻：** 主導公司內外部系統的重建與數位轉型，繪製 Wireframe 與 UI Flow，協調外包團隊開發。
+* **成果：** 建立後台管理平台（權限管理、招募專區、數據分析），大幅提升內部 HR 作業效率。
 
 ---
 
-## 🌟 重點專案成果 (Featured Projects)
+### 🚀 My Story & Advantage
 
-### 1. 黑膠音樂社群電商平台 (全端實戰專題)
-* **專案簡介：** 以黑膠音樂為主題的社群電商平台，提供商品篩選、購物車、社群討論與會員功能。
-* **技術棧：** **React.js** + **Node.js (Express)** + **MySQL**
-* **我的角色 (組長)：**
-    * ✅ 負責**專案時程規劃與進度控管**，確保高品質交付。
-    * ✅ 主導**主要視覺設計**、**RWD 切版**與**模組化開發**。
-    * ✅ 完成**會員功能開發**與**功能整合測試**。
+**From HR Specialist to Front-End Engineer**
+過去五年，我在人資與行銷領域累積了深厚的溝通與規劃能力。我發現自己對於「如何透過技術解決使用者問題」充滿熱情，因此轉職投入前端領域。
 
-
-### 2. 優仕人力銀行網站與管理後台
-* **專案簡介：** 主導公司內外部系統的重建與數位轉型，提升求職者互動與內部作業效率。
-* **主要成果：**
-    * 規劃**前台使用者體驗**與功能（預約面試、求職專區、品牌行銷）。
-    * 設計並建置**管理後台**（權限管理、招募專區、數據分析），加速公司數位化進程。
-    * 成功**協調外包開發團隊**，確保系統功能順利上線與持續優化。
+* **專案管理力 (PM)：** 能有效控管時程，確保開發目標與業務需求一致。
+* **設計實現力 (UI/UX)：** 熟悉 Figma/PS/AI，能將設計稿 Pixel-perfect 地落實為程式碼。
+* **溝通協作力 (Soft Skill)：** 擅長擔任技術端與業務端的橋樑，減少需求落差。
 
 
----
 
-## 💼 核心優勢 (The X-Factor)
-
-* **專案管理力：** 具備 5 年以上專案規劃、執行與跨部門協作經驗，能有效控管時程，確保開發目標與業務需求一致。
-* **設計實現力：** 熟悉多媒體設計軟體，能將抽象的 UI/UX 設計稿精準地落實為前端互動元件。
-* **多工與抗壓性：** 具備大型活動與多項職能同時運作的經驗，抗壓性高，且擁有**乙級就業服務技術士**證照。
-
----
-
-### 📬 聯繫我 (Get In Touch)
-
-我積極尋求前端工程師職位，期望能將「專案規劃」與「前端開發」的雙重專業投入實戰。歡迎與我聯繫交流！
-
-* **Email:** jiarongli1116@gmail.com
-* **LinkedIn:**[ [LinkedIn 連結]](https://www.linkedin.com/in/%E4%BD%B3%E8%93%89-%E6%9D%8E-b8144a364/)
-
+<div align="center">
+  <a href="mailto:jiarongli1116@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="你的LinkedIn連結">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
