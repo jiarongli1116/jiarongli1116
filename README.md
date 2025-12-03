@@ -7,9 +7,9 @@
 
 我是一位具備 5 年以上跨領域經驗的前端工程師。專注於結合 **專案管理**、**UI/UX 設計思維** 與 **前端開發技術**，打造兼具效率、美感與良好使用者體驗的產品。
 
-- 🔭 I’m currently working on **Vinyl & Flow E-commerce Platform**
-- 🌱 I’m currently learning **Next.js & TypeScript**
-- 💬 Ask me about **React, UI/UX Design, and Project Management**
+- 🔭 目前正在開發 **Echo & Flow 黑膠音樂社群電商平台**
+- 🌱 持續精進 **Next.js** 與 **React**
+- 💬 歡迎與我交流 **React**、**UI/UX 設計** 與 **專案管理**
 - 📫 How to reach me: **jiarongli1116@gmail.com**
 
 ---
@@ -38,7 +38,7 @@
 
 ### 🌟 Featured Projects
 
-#### 🎵 Vinyl & Flow 黑膠音樂社群電商平台 (Team Lead & Full-Stack Dev)
+#### 🎵 Echo & Flow 黑膠音樂社群電商平台 (Team Lead & Full-Stack Dev)
 
 > **這是一個結合音樂試聽與社群互動的電商平台。**
 > *使用者可以試聽 Spotify 音樂、瀏覽商品、加入購物車並結帳，同時享有會員專屬功能。*
@@ -48,7 +48,7 @@
 
 | 🛠 Tech Stack | 💡 Key Features |
 | :--- | :--- |
-| **React.js, Node.js (Express), MySQL** | • **Spotify API 整合**：實作音樂試聽與搜尋<br/>• **JWT 驗證**：完整的會員註冊與登入系統<br/>• **RWD 設計**：Figma 設計稿精準還原<br/>• **購物車邏輯**：複雜狀態管理 (Context API) |
+| **React.js, Node.js (Express), MySQL** | • **Spotify API 整合**：實作音樂試聽與搜尋<br/>• **JWT 驗證**：完整的會員註冊與登入系統<br/>• **RWD 設計**：Figma 設計稿精準還原<br/>• **購物車邏輯**：複雜狀態管理 (hooks) |
 
 
 <br/>
