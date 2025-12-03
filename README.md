@@ -75,7 +75,7 @@
   <a href="mailto:jiarongli1116@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="你的LinkedIn連結">
+  <a href="https://www.linkedin.com/in/%E4%BD%B3%E8%93%89-%E6%9D%8E-b8144a364/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
