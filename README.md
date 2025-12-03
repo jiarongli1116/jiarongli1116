@@ -1,4 +1,4 @@
-# Hi there, I'm Anna Li (李佳蓉) 👋
+# Hi I'm Anna Li (李佳蓉) 👋
 
 <div align="center">
   </div>
